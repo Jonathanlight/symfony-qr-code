@@ -43,7 +43,7 @@ class QrcodeService
             ->logoPath($path.'img/logo.png')
             ->logoResizeToWidth('100')
             ->logoResizeToHeight('100')
-            ->backgroundColor(new Color(1, 151, 255))
+            ->backgroundColor(new Color(221, 158, 3))
             ->build()
         ;
 
